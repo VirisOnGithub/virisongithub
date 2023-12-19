@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td colspan=6>
-            <img height="300px" src="./vog.gif" />
+            <p align=center><img height="300px" src="./vog.gif" /></p>
         </td>
     </tr>
     <tr>
@@ -42,29 +42,35 @@
     </tr>
     <tr>
         <td colspan=2>
-            <img width=50px height=50px src="./py.svg" />
-            <img width=50px height=50px src="./js.svg" />
-            <img width=50px height=50px src="./html.svg" />
-            <img width=50px height=50px src="./css.svg" />
-            <img width=50px height=50px src="./cpp.svg" />
-            <img width=50px height=50px src="./php.svg" />
-            <img width=50px height=50px src="./latex.svg" />
+            <p align=center>
+                <img width=50px height=50px src="./py.svg" />
+                <img width=50px height=50px src="./js.svg" />
+                <img width=50px height=50px src="./html.svg" />
+                <img width=50px height=50px src="./css.svg" />
+                <img width=50px height=50px src="./cpp.svg" />
+                <img width=50px height=50px src="./php.svg" />
+                <img width=50px height=50px src="./latex.svg" />
+            </p>
         </td>
         <td colspan=2>
-            <img width=50px height=50px src="./flutter.svg" />
-            <img width=50px height=50px src="./react.svg" />
-            <img width=50px height=50px src="./md.svg" />
-            <img width=50px height=50px src="./ts.svg" />
-            <img width=50px height=50px src="./sass.svg" />
-            <img width=50px height=50px src="./rust.svg" />
-            <img width=50px height=50px src="./dart.svg" />
+            <p align=center>
+                <img width=50px height=50px src="./flutter.svg" />
+                <img width=50px height=50px src="./react.svg" />
+                <img width=50px height=50px src="./md.svg" />
+                <img width=50px height=50px src="./ts.svg" />
+                <img width=50px height=50px src="./sass.svg" />
+                <img width=50px height=50px src="./rust.svg" />
+                <img width=50px height=50px src="./dart.svg" />
+            </p>
         </td>
         <td colspan=2>
-            <img width=50px height=50px src="./angular.svg" />
-            <img width=50px height=50px src="./json.svg" />
-            <img width=50px height=50px src="./sql.svg" />
-            <img width=50px height=50px src="./java.svg" />
-            <img width=50px height=50px src="./csharp.svg" />
+            <p align=center>
+                <img width=50px height=50px src="./angular.svg" />
+                <img width=50px height=50px src="./json.svg" />
+                <img width=50px height=50px src="./sql.svg" />
+                <img width=50px height=50px src="./java.svg" />
+                <img width=50px height=50px src="./csharp.svg" />
+            </p>
         </td>
     </tr>
 </table>
