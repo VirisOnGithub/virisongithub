@@ -14,7 +14,7 @@
             <img src="./languages.svg" />
             <p align=center>
                 <a href="https://wakatime.com/@b72ca6a4-e042-401d-8f2e-b404eaf1c6e5">
-                    <img style="padding: 0 25% ; width: 50%" src="https://wakatime.com/badge/user/b72ca6a4-e042-401d-8f2e-b404eaf1c6e5.svg" alt="Total time coded since Jul 3 2023"/>
+                    <img src="https://wakatime.com/badge/user/b72ca6a4-e042-401d-8f2e-b404eaf1c6e5.svg" alt="Total time coded since Jul 3 2023"/>
                 </a>
                     <img src="https://img.shields.io/badge/Discord-@Viris__-informational?logo=discord&logoColor=white" />
                 <a href="virisongithub.github.io">
