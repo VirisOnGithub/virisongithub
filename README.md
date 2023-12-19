@@ -6,7 +6,7 @@
     </tr>
     <tr>
         <td colspan=6>
-            <h3 align=center>Stats</h3>
+            <h2 align=center style="margin: auto">Stats</h2>
         </td>
     </tr>
     <tr>
@@ -29,18 +29,18 @@
     </tr>
     <tr>
         <td colspan=6>
-            <h3 align=center>Languages that I'm ...</h3>
+            <h2 align=center style="margin: auto">Languages that I'm ...</h2>
         </td>
     </tr>
     <tr>
         <td colspan=2>
-            <h5 align=center>... using</h5>
+            <h3 align=center style="margin: auto">... using</h3>
         </td>
         <td colspan=2>
-            <h5 align=center>... currently learning</h5>
+            <h3 align=center style="margin: auto">... currently learning</h3>
         </td>
         <td colspan=2>
-            <h5 align=center>... would like to know later</h5>
+            <h3 align=center style="margin: auto">... would like to know later</h3>
         </td>
     </tr>
     <tr>
