@@ -6,38 +6,41 @@
     </tr>
     <tr>
         <td colspan=6>
-            <h3 style="text-align: center">Stats</h3>
+            <h3 align=center>Stats</h3>
         </td>
     </tr>
     <tr>
-        <td colspan=3><img src="./languages.svg" />
-            <a href="https://wakatime.com/@b72ca6a4-e042-401d-8f2e-b404eaf1c6e5">
-                <img style="padding: 0 25% ; width: 50%" src="https://wakatime.com/badge/user/b72ca6a4-e042-401d-8f2e-b404eaf1c6e5.svg" alt="Total time coded since Jul 3 2023"/>
-            </a>
-            <img style="padding: 0 25% ; width: 50%" src="https://img.shields.io/badge/Discord-@Viris__-informational?logo=discord&logoColor=white" />
-            <a href="virisongithub.github.io">
-                <img style="padding: 0 25% ; width: 50%" src="https://img.shields.io/badge/Website-VirisOnGithub-informational?logo=vite&logoColor=white">
-            </a>
-            <a href="virisongithub.github.io">
-                <img style="padding: 0 25% ; width: 50%" src="https://img.shields.io/badge/LinkedIn-VirisOnGithub-informational?logo=linkedin&logoColor=white">
-            </a>
+        <td colspan=3>
+            <img src="./languages.svg" />
+            <p align=center>
+                <a href="https://wakatime.com/@b72ca6a4-e042-401d-8f2e-b404eaf1c6e5">
+                    <img style="padding: 0 25% ; width: 50%" src="https://wakatime.com/badge/user/b72ca6a4-e042-401d-8f2e-b404eaf1c6e5.svg" alt="Total time coded since Jul 3 2023"/>
+                </a>
+                    <img src="https://img.shields.io/badge/Discord-@Viris__-informational?logo=discord&logoColor=white" />
+                <a href="virisongithub.github.io">
+                    <img src="https://img.shields.io/badge/Website-VirisOnGithub-informational?logo=vite&logoColor=white">
+                </a>
+                <a href="virisongithub.github.io">
+                    <img src="https://img.shields.io/badge/LinkedIn-VirisOnGithub-informational?logo=linkedin&logoColor=white">
+                </a>
+            </p>
         </td>
         <td colspan=3><img src="./metrics.svg" /></td>
     </tr>
     <tr>
         <td colspan=6>
-            <h3 style="text-align: center">Languages that I'm ...</h3>
+            <h3 align=center>Languages that I'm ...</h3>
         </td>
     </tr>
     <tr>
         <td colspan=2>
-            <h5 style="text-align: center">... using</h5>
+            <h5 align=center>... using</h5>
         </td>
         <td colspan=2>
-            <h5 style="text-align: center">... currently learning</h5>
+            <h5 align=center>... currently learning</h5>
         </td>
         <td colspan=2>
-            <h5 style="text-align: center">... would like to know later</h5>
+            <h5 align=center>... would like to know later</h5>
         </td>
     </tr>
     <tr>
