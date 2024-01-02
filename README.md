@@ -20,7 +20,7 @@
                 <a href="virisongithub.github.io">
                     <img src="https://img.shields.io/badge/Website-VirisOnGithub-informational?logo=vite&logoColor=white">
                 </a>
-                <a href="virisongithub.github.io">
+                <a href="https://virisongithub.github.io">
                     <img src="https://img.shields.io/badge/LinkedIn-VirisOnGithub-informational?logo=linkedin&logoColor=white">
                 </a>
             </p>
