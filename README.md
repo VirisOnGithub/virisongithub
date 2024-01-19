@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td colspan=6>
-            <p align=center><img height="300px" src="./vog.gif" /></p>
+            <p align=center><img height="300px" src="./vog.gif" /></p> 
         </td>
     </tr>
     <tr>
