@@ -6,6 +6,11 @@
     </tr>
     <tr>
         <td colspan=6>
+            <p align=center>[![wakatime](https://wakatime.com/badge/user/b72ca6a4-e042-401d-8f2e-b404eaf1c6e5.svg?style=for-the-badge)](https://wakatime.com/@b72ca6a4-e042-401d-8f2e-b404eaf1c6e5)</p>
+        </td>
+    </tr>
+    <tr>
+        <td colspan=6>
             <h2 align=center style="margin: auto">Stats</h2>
         </td>
     </tr>
