@@ -58,25 +58,25 @@
                 <img width=50px height=50px src="./cpp.svg" />
                 <img width=50px height=50px src="./php.svg" />
                 <img width=50px height=50px src="./latex.svg" />
+                <img width=50px height=50px src="./md.svg" />
+                <img width=50px height=50px src="./json.svg" />
+                <img width=50px height=50px src="./sql.svg" />
             </p>
         </td>
         <td colspan=2>
             <p align=center>
                 <img width=50px height=50px src="./flutter.svg" />
                 <img width=50px height=50px src="./react.svg" />
-                <img width=50px height=50px src="./md.svg" />
                 <img width=50px height=50px src="./ts.svg" />
                 <img width=50px height=50px src="./sass.svg" />
-                <img width=50px height=50px src="./rust.svg" />
                 <img width=50px height=50px src="./dart.svg" />
+                <img width=50px height=50px src="./java.svg" />
             </p>
         </td>
         <td colspan=2>
             <p align=center>
+                <img width=50px height=50px src="./rust.svg" />
                 <img width=50px height=50px src="./angular.svg" />
-                <img width=50px height=50px src="./json.svg" />
-                <img width=50px height=50px src="./sql.svg" />
-                <img width=50px height=50px src="./java.svg" />
                 <img width=50px height=50px src="./csharp.svg" />
             </p>
         </td>
