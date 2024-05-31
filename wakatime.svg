@@ -49,13 +49,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">meteo</span>
-                                <div class="bar" style="width: 49.296%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">62%</span>
+                                <div class="bar" style="width: 47.352%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">59%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">cpp-annales</span>
-                                <div class="bar" style="width: 30.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <div class="bar" style="width: 32.648%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">41%</span>
                             </div>
                         </div>
                     </section>
