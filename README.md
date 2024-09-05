@@ -51,7 +51,7 @@
     <tr>
         <td colspan=2>
             <p align=center>
-                <img width=50px height=50px src="./py.svg" />
+                <img width=50px height=50px src="./py.svg"/>
                 <img width=50px height=50px src="./js.svg" />
                 <img width=50px height=50px src="./html.svg" />
                 <img width=50px height=50px src="./css.svg" />
@@ -61,6 +61,7 @@
                 <img width=50px height=50px src="./md.svg" />
                 <img width=50px height=50px src="./json.svg" />
                 <img width=50px height=50px src="./sql.svg" />
+                <img width=50px height=50px src="./perl.svg" />
             </p>
         </td>
         <td colspan=2>
